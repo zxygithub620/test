@@ -10,6 +10,9 @@ namespace hhh
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("哈哈");
+            Console.ReadKey();
+        
         }
     }
 }
