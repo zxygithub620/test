@@ -16,6 +16,10 @@ namespace hhh
             Console.WriteLine("哈哈");
                         Console.WriteLine("哈哈");
             Console.WriteLine("喜喜");
+            Console.WriteLine("哈哈");
+            Console.WriteLine("哈哈"); Console.WriteLine("哈哈");
+            Console.WriteLine("哈哈"); Console.WriteLine("哈哈");
+            Console.WriteLine("哈哈");
             Console.ReadKey();
             
         
