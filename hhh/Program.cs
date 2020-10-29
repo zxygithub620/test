@@ -18,6 +18,9 @@ namespace hhh
              Console.WriteLine("哈哈");
              Console.WriteLine("哈哈");
              Console.WriteLine("哈哈");
+             Console.WriteLine("哈哈");
+             Console.WriteLine("哈哈");
+
         }
     }
 }
