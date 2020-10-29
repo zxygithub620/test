@@ -11,9 +11,9 @@ namespace hhh
         static void Main(string[] args)
         {
             Console.WriteLine("哈哈");
-
-
-
+             Console.WriteLine("哈哈");
+             Console.WriteLine("哈哈");
+             Console.WriteLine("哈哈");
         }
     }
 }
